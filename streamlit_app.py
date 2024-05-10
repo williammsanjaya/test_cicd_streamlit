@@ -6,7 +6,7 @@ import streamlit as st
 
 """
 # Welcome to Streamlit!
-
+Mantap!!
 This streamlit app is only a testing web app for making a spiral.
 The purpose of this app actually just for testing the CI/CD pipeline through Google Cloud Build and Cloud Run.
 """
