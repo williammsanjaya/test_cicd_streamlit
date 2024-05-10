@@ -7,12 +7,8 @@ import streamlit as st
 """
 # Welcome to Streamlit!
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
-
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
-
-In the meantime, below is an example of what you can do with just a few lines of code:
+This streamlit app is only a testing web app for making a spiral.
+The purpose of this app actually just for testing the CI/CD pipeline through Google Cloud Build and Cloud Run.
 """
 
 with st.echo(code_location="below"):
